@@ -15,9 +15,9 @@
 
 🏫 Program: Cybersecurity Workforce Development Bootcamp Summer I
 
-**Contact Information (Optional):**
+**Contact Information:**
 
 📧 Email: alexanderhonguyen19@gmail.com
 
-🔗 LinkedIn (optional): [linkedin.com/in/alexanderhonguyen](https://www.linkedin.com/in/alexanderhonguyen/)
+🔗 LinkedIn: [linkedin.com/in/alexanderhonguyen](https://www.linkedin.com/in/alexanderhonguyen/)
 
