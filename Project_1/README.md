@@ -5,22 +5,20 @@ This project was a comprehensive, cross-functional academic exercise designed to
 ### Implementation Steps or Workflow
 The project was executed in several distinct phases, moving from design to implementation and finally to validation.
 
-#### Infrastructure Design: 
+1. #### Infrastructure Design: 
 Developed a hybrid network topology combining on-premises systems with cloud infrastructure, segmenting the network into a DMZ, an Internal Zone, and a restricted Admin Zone.
 
-#### Defense Strategy: 
+2. #### Defense Strategy: 
 Implemented a layered defense model using next-generation firewalls, IDS/IPS, secure VPN access with MFA, and Role-Based Access Control (RBAC).
 
-#### Policy & Playbook Development: 
+3. #### Policy & Playbook Development: 
 Co-authored key strategic documents, including:
 
-#### Incident Response Playbook: 
-Outlined a five-phase (Detection, Containment, Eradication, Recovery, Lessons Learned) response structure.
+- **Incident Response Playbook:** Outlined a five-phase (Detection, Containment, Eradication, Recovery, Lessons Learned) response structure.
 
-#### Disaster Recovery Plan (DRP): 
-Created a plan for data backup and infrastructure failover based on the 3-2-1 rule and a warm site cloud model.
+- **Disaster Recovery Plan (DRP):** Created a plan for data backup and infrastructure failover based on the 3-2-1 rule and a warm site cloud model.
 
-#### Red vs. Blue Team Simulation: 
+4. #### Red vs. Blue Team Simulation:
 As the Red/Blue Simulation Lead, I designed and executed a simulated attack based on the MITRE ATT&CK framework.
 
 #### Red Team Actions: 
@@ -44,13 +42,13 @@ Analyzed the results of the simulation to identify security gaps and co-authored
 ![A flowchart detailing the steps taken in the simulated Red Team attack.](./images/red-team-attack-path.png)
 
 ### 🧰 Tools & Skills Used
-Offensive Tools: Mimikatz, Malicious Macro Payloads
+- **Offensive Tools:** Mimikatz, Malicious Macro Payloads
 
-Defensive & Monitoring Tools: Splunk (SIEM), IDS/IPS, Firewalls, Wireshark, Windows Defender
+- **Defensive & Monitoring Tools:** Splunk (SIEM), IDS/IPS, Firewalls, Wireshark, Windows Defender
 
-Frameworks: MITRE ATT&CK, NIST Cybersecurity Framework (CSF)
+- **Frameworks:** MITRE ATT&CK, NIST Cybersecurity Framework (CSF)
 
-Skills: Red Team/Blue Team Simulation, Incident Response Planning, Disaster Recovery Planning, Threat Intelligence Integration, Network Segmentation, Vulnerability Assessment, Technical Writing & Reporting.
+- **Skills:** Red Team/Blue Team Simulation, Incident Response Planning, Disaster Recovery Planning, Threat Intelligence Integration, Network Segmentation, Vulnerability Assessment, Technical Writing & Reporting.
 
 ### 🧠 Reflection & Takeaways
 This project was an invaluable experience in bridging the gap between theoretical security architecture and practical, real-world defense. Leading the Red Team simulation provided critical insights into an attacker's mindset and highlighted how quickly a single point of failure—like a successful phish—can escalate into a full network compromise.
