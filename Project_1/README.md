@@ -35,13 +35,13 @@ Analyzed the results of the simulation to identify security gaps and co-authored
 ### Screenshots, Diagrams, or Outputs
 
 ### Network Topology Diagram
-![A diagram showing the hybrid on-premises and cloud network architecture.](TechMAP_Cybersecurity_Pracitioner_Bootcamp/Project_1/images/network-topology.png)
+![A diagram showing the hybrid on-premises and cloud network architecture.](./images/network-topology.png)
 
 ### Incident Response Lifecycle
-![A diagram outlining the five phases of the incident response playbook.](TechMAP_Cybersecurity_Pracitioner_Bootcamp/Project_1/images/incident-response-lifecycle.png)
+![A diagram outlining the five phases of the incident response playbook.](./images/incident-response-lifecycle.png)
 
 ### Red Team Attack Path
-![A flowchart detailing the steps taken in the simulated Red Team attack.](TechMAP_Cybersecurity_Pracitioner_Bootcamp/Project_1/images/red-team-attack-path.png)
+![A flowchart detailing the steps taken in the simulated Red Team attack.](./images/red-team-attack-path.png)
 
 ### 🧰 Tools & Skills Used
 Offensive Tools: Mimikatz, Malicious Macro Payloads
