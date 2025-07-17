@@ -5,21 +5,21 @@ This project was a comprehensive, cross-functional academic exercise designed to
 ### Implementation Steps or Workflow
 The project was executed in several distinct phases, moving from design to implementation and finally to validation.
 
-1. **Infrastructure Design:** Developed a hybrid network topology combining on-premises systems with cloud infrastructure, segmenting the network into a DMZ, an Internal Zone, and a restricted Admin Zone.
+1.  **Infrastructure Design:** Developed a hybrid network topology combining on-premises systems with cloud infrastructure, segmenting the network into a DMZ, an Internal Zone, and a restricted Admin Zone.
 
-2. **Defense Strategy:** Implemented a layered defense model using next-generation firewalls, IDS/IPS, secure VPN access with MFA, and Role-Based Access Control (RBAC).
+2.  **Defense Strategy:** Implemented a layered defense model using next-generation firewalls, IDS/IPS, secure VPN access with MFA, and Role-Based Access Control (RBAC).
 
-3. **Policy & Playbook Development:** Co-authored key strategic documents, including:
+3.  **Policy & Playbook Development:** Co-authored key strategic documents, including:
 
-- **Incident Response Playbook:** Outlined a five-phase (Detection, Containment, Eradication, Recovery, Lessons Learned) response structure.
+  - **Incident Response Playbook:** Outlined a five-phase (Detection, Containment, Eradication, Recovery, Lessons Learned) response structure.
 
-- **Disaster Recovery Plan (DRP):** Created a plan for data backup and infrastructure failover based on the 3-2-1 rule and a warm site cloud model.
+  - **Disaster Recovery Plan (DRP):** Created a plan for data backup and infrastructure failover based on the 3-2-1 rule and a warm site cloud model.
 
-4. **Red vs. Blue Team Simulation:** As the Red/Blue Simulation Lead, I designed and executed a simulated attack based on the MITRE ATT&CK framework.
-- **Red Team Actions:** Performed initial access via a phishing email with a malicious macro, established persistence using registry keys, dumped credentials with Mimikatz, and moved laterally via RDP to compromise 36 other machines.
-- **Blue Team Monitoring:** The defensive team was tasked with detecting and responding to the attack using a SIEM and other monitoring tools.
+4.  **Red vs. Blue Team Simulation:** As the Red/Blue Simulation Lead, I designed and executed a simulated attack based on the MITRE ATT&CK framework.
+  - **Red Team Actions:** Performed initial access via a phishing email with a malicious macro, established persistence using registry keys, dumped credentials with Mimikatz, and moved laterally via RDP to compromise 36 other machines.
+  - **Blue Team Monitoring:** The defensive team was tasked with detecting and responding to the attack using a SIEM and other monitoring tools.
 
-5. **Analysis & Recommendations:** Analyzed the results of the simulation to identify security gaps and co-authored the final report detailing actionable recommendations to harden the organization's security posture.
+5.  **Analysis & Recommendations:** Analyzed the results of the simulation to identify security gaps and co-authored the final report detailing actionable recommendations to harden the organization's security posture.
 
 ### Screenshots, Diagrams, or Outputs
 
